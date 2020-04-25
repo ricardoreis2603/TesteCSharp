@@ -1,0 +1,10 @@
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\bin\Debug\TesteCSharp.exe.config
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\bin\Debug\TesteCSharp.exe
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\bin\Debug\TesteCSharp.pdb
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csprojAssemblyReference.cache
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.Form1.resources
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.Properties.Resources.resources
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csproj.GenerateResource.cache
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.csproj.CoreCompileInputs.cache
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.exe
+C:\Users\orica\source\repos\TesteCSharp\TesteCSharp\obj\Debug\TesteCSharp.pdb
